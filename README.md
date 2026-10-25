@@ -74,3 +74,23 @@ A beginner-friendly project focused on movie discovery and web development.
 <p align="center">
   <i>Learning every day. Building one project at a time.</i>
 </p>
+
+## 👾 Pac-Man Contribution Graph
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/geceonder/geceonder/output/pacman-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/geceonder/geceonder/output/pacman-contribution-graph.svg"
+    />
+    <img
+      alt="Pac-Man contribution graph animation"
+      src="https://raw.githubusercontent.com/geceonder/geceonder/output/pacman-contribution-graph.svg"
+      width="100%"
+    />
+  </picture>
+</p>
