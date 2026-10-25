@@ -1,49 +1,25 @@
 
 <h1 align="center">Hi, I'm Ece 👋</h1>
 
+
 <h3 align="center">
-  Management Information Systems Student | Aspiring Developer
+  MIS Student | Exploring technology, growing every day.
 </h3>
-
-<p align="center">
-  Learning, building, and exploring technology one project at a time.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Web%20Development-9B5DE5?style=for-the-badge" alt="Focus: Web Development" />
-  <img src="https://img.shields.io/badge/Status-Learning-39D98A?style=for-the-badge" alt="Status: Learning" />
-</p>
 
 ---
 
-##  About Me
 
--  Management Information Systems student.
--  Learning web development step by step.
--  Building my Movie Discovery App.
--  Improving my skills through hands-on projects.
--  Interested in software development and technology.
-
-##  Tech Stack
+## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" alt="Technologies and tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp&theme=dark&perline=5" height="32" alt="HTML, CSS, JavaScript, Python and C++" />
+  <br />
+  <img src="https://img.shields.io/badge/SQL-9B5DE5?style=flat&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
-##  Featured Project
 
-### 🎬 Movie Discovery App
 
-A beginner-friendly project focused on movie discovery and web development.
-
--  Cinematic and editorial-inspired design.
--  Practicing HTML, CSS, and JavaScript.
--  Adding new features as I learn.
-
-<p>
-  <a href="https://github.com/geceonder/movie-discovery-app">
-    <img src="https://img.shields.io/badge/Explore%20Project-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore Movie Discovery App" />
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img
@@ -58,16 +34,6 @@ A beginner-friendly project focused on movie discovery and web development.
   />
 </p>
 
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=geceonder&hide_border=true&background=0D1117&ring=9B5DE5&fire=39D98A&currStreakLabel=39D98A&sideLabels=FFFFFF&dates=AAAAAA"
-    alt="GitHub contribution streak"
-  />
-</p>    
-  </a>
-</p>
 
 ---
 
@@ -75,7 +41,14 @@ A beginner-friendly project focused on movie discovery and web development.
   <i>Learning every day. Building one project at a time.</i>
 </p>
 
-## 👾 Pac-Man Contribution Graph
+
+---
+
+## 📫Connect with Me
+
+[LinkedIn](https://www.linkedin.com/in/g%C3%BCl%C3%BC%C5%9Fen-ece-%C3%B6nder/)
+ 
+##  Pac-Man Contribution Graph
 
 <p align="center">
   <picture>
