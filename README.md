@@ -43,6 +43,29 @@ A beginner-friendly project focused on movie discovery and web development.
 <p>
   <a href="https://github.com/geceonder/movie-discovery-app">
     <img src="https://img.shields.io/badge/Explore%20Project-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore Movie Discovery App" />
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=geceonder&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9B5DE5&icon_color=39D98A&text_color=FFFFFF"
+    height="165"
+    alt="GitHub statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=geceonder&layout=compact&hide_border=true&bg_color=0D1117&title_color=9B5DE5&text_color=FFFFFF"
+    height="165"
+    alt="Most used programming languages"
+  />
+</p>
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=geceonder&hide_border=true&background=0D1117&ring=9B5DE5&fire=39D98A&currStreakLabel=39D98A&sideLabels=FFFFFF&dates=AAAAAA"
+    alt="GitHub contribution streak"
+  />
+</p>    
   </a>
 </p>
 
